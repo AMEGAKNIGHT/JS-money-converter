@@ -1,0 +1,20 @@
+.modal{
+    height: 15%;
+    width: 20%;
+    background: rgb(40, 40, 40);
+    display: block;
+    margin: 15% 20% 20% 38%;
+    color: white;
+    font-weight: 300;
+    user-select: none;
+    padding: 10px 10px 10px 10px;
+    border-radius: 2px;
+    outline: none;
+}
+h1{
+    font-family: Elephant;
+    font-size: 30px;
+}
+head, body{
+    background-color: rgb(59, 59, 59);
+}
